@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:karthikchevalil2255@gmail"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:karthikchevalil2255@gmail"><img src="https://img.shields.io/badge/📧_Karthikchevalil22551@gmail.com-1e1e2e?style=for-the-badge" /></a>
    
   </p>
 
